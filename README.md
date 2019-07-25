@@ -1,2 +1,2 @@
-# Assignment-2
+# VBA-Scripting
 VBA Stock Tracker
